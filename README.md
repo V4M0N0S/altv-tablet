@@ -1,5 +1,5 @@
 # TABLET Script for alt:V
-This is a small tablet example with webview in alt:V
+This is a small tablet example with webview in alt:V<br>
 Preview is here: https://imgur.com/a/AEpBVnr
 
 ## Current features
