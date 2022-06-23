@@ -25,7 +25,7 @@ Edit tablet.html on line 16. There is a url. Easy to replace.
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ 1. Open an issue | 2. Send me an email: V4M0N0S@posteo.mx | 3. Add me on Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via Discord: V4M0N0S#0001
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
