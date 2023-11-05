@@ -2,7 +2,10 @@
 This is a small tablet example with webview in alt:V<br>
 Preview is here: https://imgur.com/a/AEpBVnr
 
-## Current features
+## Current project status
+🔸 This project has been discontinued.
+
+## Current / last integrated features
 🔸 Opens a "tablet" if you press Z
 
 ## Installation
@@ -25,7 +28,7 @@ Edit tablet.html on line 16. There is a url. Easy to replace.
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via mail: vamonos@posteo.me or Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
